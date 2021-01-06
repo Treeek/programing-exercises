@@ -1,3 +1,5 @@
+# source: https://cses.fi/problemset/task/1068
+
 n = int(input())
 output = [str(n)]
 while n != 1:

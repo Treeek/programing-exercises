@@ -1,4 +1,4 @@
-# source: https://cses.fi/problemset/result/775261/
+# source: https://cses.fi/problemset/task/1083/
 
 n = int(input())
 lines = input().split()
